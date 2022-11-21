@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#adminlogin{
+    position: relative;
+    top: 220px;
+    left: 200px;
+}
+#header {
+    background-color: blue;
+    padding: 15px 0px;
+}
+#header button {
+    float: right;
+}
+#header button a {
+    text-decoration: none;
+    color: white;
+}
+#header h2{
+    color: white;
+}
+#footer{
+    position: absolute;
+    bottom: 10px;
+
+}
+
+
+#mid table td{ 
+    font-size: 15px;
+}
+#mid table th{
+    text-align: center;
+}
+#mid table {
+    border: 1px solid black;
+}
